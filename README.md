@@ -2,7 +2,7 @@
 
 1. Install the Radicale template from Unraid Community Applications. 
 
-2. Make sure to mount an appdata/config directory and a data directory.
+2. Make sure to mount a /config directory and /data directory.
 
 3. Place the sample config file (https://github.com/JPDVM2014/radicale/blob/main/config) and sample users file (https://github.com/JPDVM2014/radicale/blob/main/users) into the /config directory. (NOTE: The file names should be "config" and "users" without the quotation marks. No leading period or extension.)
 
