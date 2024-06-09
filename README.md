@@ -12,7 +12,7 @@
    
 5. Once the files are in place, you can start/restart the container, and you should be able to access the WebUI.
 
-This is a basic configuration used to get up and running quickly. For more advanced configuration options, refer to the image creator's github at https://github.com/tomsquest/docker-radicale.
+This is a basic configuration used to get up and running quickly. For more advanced/secure configuration options, refer to the image creator's github at https://github.com/tomsquest/docker-radicale.
 
 
 
